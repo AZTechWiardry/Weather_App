@@ -84,7 +84,7 @@ This app uses the OpenWeatherMap API. To make it work, ensure:
 
 - Weather data provided by [OpenWeatherMap]
 - Made with ❤️ by **AA Brothers**.
-- **Aditya Zingade**SSS 
+- **Aditya Zingade**
 - **Aditya Patil**
 
 ---
